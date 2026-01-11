@@ -44,7 +44,7 @@ if st.button('Predict'):
   free_sulfur_dioxide,
   total_sulfur_dioxide,
   density,
-  pH	,
+  pH,
   sulphates,
   alcohol,
   quality
